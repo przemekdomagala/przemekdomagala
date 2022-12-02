@@ -5,9 +5,7 @@
 
 ### Have a nice day :wave:
 
-##### *Link to my github page: * 
-
-##### przemekdomagala.github.io
+##### * Link to my github page: przemekdomagala.github.io * 
 
 
 
