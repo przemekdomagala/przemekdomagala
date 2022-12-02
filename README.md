@@ -5,7 +5,7 @@
 
 ### Have a nice day :wave:
 
-##### [Link to my github page]:(https://przemekdomagala.github.io) 
+##### [My github page](https://przemekdomagala.github.io) 
 
 
 
