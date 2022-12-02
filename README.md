@@ -5,7 +5,7 @@
 
 ### Have a nice day :wave:
 
-###### https://przemekdomagala.github.io
+
 
 
 
