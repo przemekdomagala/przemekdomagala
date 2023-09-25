@@ -1,5 +1,5 @@
 
-### [Personal Information and Contact](https://przemekdomagala.github.io) 
+### [>>Personal Information and Contact<<](https://przemekdomagala.github.io) 
 
 
 
