@@ -6,7 +6,7 @@
 * [Calculator](https://github.com/przemekdomagala/Java_Calculator)
 
 #### Other:
-##### * (C# simple serializer)[https://github.com/przemekdomagala/cs_jsonl_xml_serializer]
+* (C# simple serializer)[https://github.com/przemekdomagala/cs_jsonl_xml_serializer]
 
 
 
