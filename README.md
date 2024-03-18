@@ -1,3 +1,5 @@
+# Hello!
+
 ## I am a second-year student at AGH UST. I am majoring in Computer Science and Artificial Intelligence.
 ### - [CV](https://github.com/przemekdomagala/przemekdomagala/blob/main/przemyslaw_domagala_CV.pdf)
 #### Java Projects:
