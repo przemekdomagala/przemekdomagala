@@ -1,7 +1,7 @@
 # Hello!
 
 ## I am a second-year student at AGH UST. I am majoring in Computer Science and Artificial Intelligence.
-### - [CV](https://github.com/przemekdomagala/przemekdomagala/blob/main/Przemys%C5%82aw%20Domaga%C5%82a%20Resume.pdf)
+### - [CV](https://github.com/przemekdomagala/przemekdomagala/blob/main/przemek_domagala_eng_CV.pdf)
 ### Java Projects:
 * [Poker Game](https://github.com/przemekdomagala/Poker-JavaNIO) 
 * [Hotel System](https://github.com/przemekdomagala/Java-NoGUI-HotelSystem)
