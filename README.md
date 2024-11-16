@@ -4,10 +4,7 @@
 
 ## Additionally, I am part of the AGH Solar Boat Team as a Software Engineer. I design and implement system architecture and develop algorithms in C++ (with ROS2) that steer the Autonomous Boat "Barka".
 
-
-### Projects:
-- [Euro2024 WebApp for Fans](https://github.com/przemekdomagala/Euro2024FanApp)
-- [Java Poker Game](https://github.com/przemekdomagala/Poker-JavaNIO)
+## Additionally since Nov. 2023 I am part of the AGH Solar Boat Team as a Software Engineer working on Autonomous Boat "Barka". My responsibilities are designing and implementing system architecture and developing algorithms in C++ (with usage of ROS2) for boat autonomous steering.
 
 
 
